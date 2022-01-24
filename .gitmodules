@@ -4,3 +4,6 @@
 [submodule "Quiz-Uygulamas-"]
 	path = Quiz-Uygulamas-
 	url = https://github.com/ksmcmldg/Quiz-Uygulamas-.git
+[submodule "Message-box"]
+	path = Message-box
+	url = https://github.com/ksmcmldg/Message-box.git
