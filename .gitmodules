@@ -1,3 +1,6 @@
 [submodule "Course-App"]
 	path = Course-App
 	url = https://github.com/ksmcmldg/Course-App.git
+[submodule "Quiz-Uygulamas-"]
+	path = Quiz-Uygulamas-
+	url = https://github.com/ksmcmldg/Quiz-Uygulamas-.git
